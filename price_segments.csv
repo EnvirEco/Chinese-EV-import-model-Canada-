@@ -1,0 +1,4 @@
+segment,baseline_canadian_price,chinese_low_price,chinese_standard_price,baseline_market_share,segment_elasticity
+Budget (<$40k),42000,35000,40000,0.25,0.130
+Mid-range ($40-55k),47000,35000,45681,0.60,0.115
+Premium (>$55k),65000,50000,58000,0.15,0.080

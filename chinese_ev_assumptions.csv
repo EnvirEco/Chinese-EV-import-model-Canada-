@@ -1,0 +1,13 @@
+parameter,value,description
+baseline_market,180000,2025 Canadian EV sales baseline (no federal subsidy)
+chinese_quota,49000,Annual Chinese EV import quota
+chinese_low_cost_share,0.50,Share of Chinese quota that's low-cost (<$35k)
+chinese_low_cost_price,35000,Price of low-cost Chinese EVs (CAD)
+chinese_standard_price,45681,Price of standard Chinese EVs - EU-style mix (CAD)
+baseline_canadian_price,48450,Segment-weighted average Canadian/non-Chinese EV price (CAD)
+elasticity,0.115,Demand elasticity per $1000 price change (11.5%)
+gasoline_vehicle_emissions,4.0,Annual gasoline vehicle emissions (tonnes CO2e/year)
+ev_consumption_kwh_per_100km,18.0,EV energy consumption (kWh per 100 km)
+annual_km_driven,15000,Average annual kilometers driven
+grid_intensity_g_co2_per_kwh,120,Canadian average grid intensity (g CO2e per kWh)
+vehicle_lifetime_years,15,Vehicle lifetime for cumulative emissions calculation
